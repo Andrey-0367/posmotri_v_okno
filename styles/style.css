@@ -47,6 +47,10 @@ ol {
     margin: auto;
     padding: 133px 10px;
     min-inline-size: 1180px;
+<<<<<<< HEAD
+=======
+    padding: 133px 10px;
+>>>>>>> 66c362b6b0b59db2b5746c5b8103ab017bcf291a
 }
 
 .result {
