@@ -45,8 +45,8 @@ ol {
     align-items: end;
     gap: 30px;
     margin: auto;
+    padding: 133px 10px;
     min-inline-size: 1180px;
-    padding: 133px 30px;
 }
 
 .result {
@@ -238,7 +238,7 @@ button:hover {
     margin-bottom: -2px;
     outline: none;
     overflow: auto;
-    max-inline-size: 420px;
+    max-inline-size: 430px;
     block-size: 298px;
 }
 
